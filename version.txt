@@ -1,1 +1,99 @@
-1.15.03.2023
+[version]
+[interface]
+[v1.08.03.23.0000]
+[description]
+[Russian]
+Добавлена поддержка Toyota Tundra 2022+.
+Добавлена поддержка сверки версий Online.
+[English]
+Toyota Tundra 2022 support added.
+Online info update added.
+[errata]
+[Russian]
+Тестирования Android не проводились.
+[English]
+Android version is not tested.
+
+
+[version]
+[interface]
+[v1.05.02.23.0000]
+[description]
+[Russian]
+Улучшен интерфейс.
+Добавлены новые опции последовательного порта.
+[English]
+Improved interface.
+New serial port settings.
+[errata]
+[Russian]
+Тестирования Android не проводились.
+[English]
+Android version is not tested.
+
+[version]
+[device]
+[v1.15.03.23.0001]
+[description]
+[Russian]
+Добавлена поддержка Toyota Tundra 2022+.
+[English]
+Toyota Tundra 2022 support added.
+[errata]
+[Russian]
+Тестирования не проводились.
+[English]
+The Version is not tested.
+[extra]
+[Russian]
+Светодиод и кнопка не задействованы.
+[English]
+Device LED and button are not used. 
+
+[version]
+[device]
+[v1.02.03.23.0001]
+[description]
+[Russian]
+Исправлена прошивка для Great Wall Poer и Isuzu, проявлявшаяся в периодичном не включении модуля.
+[English]
+Great Wall Poer and Isuzu issue solved: periodically not starting device.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+Светодиод моргает после записи в память, требуется перезагрузка.
+Светодиод горит при обнаруженном USB подключении.
+Нажатие кнопки сбрасывает устройство. 
+[English]
+If LED is blinking, reset the device.
+LED is on, when USB connection recognized.
+Button function is reset.
+
+[version]
+[device]
+[v1.06.02.23.0001]
+[description]
+[Russian]
+Исправлена некорректная функция калибровки одометра на Great Wall Poer. 
+Улучшен алгоритм калибровки одометра для Toyota LC150, LC200. 
+[English]
+Great Wall Poer odometer calibration fixed.
+Toyota LC150, LC200 odometer calibration improved.
+[errata]
+[Russian]
+ВНИМАНИЕ: Ошибка в прошивке: периодичное невключение модуля Great Wall Poer и Isuzu.
+[English]
+IMPORTANT: Great Wall Poer and Isuzu issue: periodically not starting device.
+[extra]
+[Russian]
+Светодиод моргает после записи в память, требуется перезагрузка.
+Светодиод горит при обнаруженном USB подключении.
+Нажатие кнопки сбрасывает устройство. 
+[English]
+If LED is blinking, reset the device.
+LED is on, when USB connection recognized.
+Button function is reset.
