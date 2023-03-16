@@ -13,6 +13,11 @@ Online info update added.
 Тестирования Android не проводились.
 [English]
 Android version is not tested.
+[extra]
+[Russian]
+
+[English]
+
 
 
 [version]
@@ -30,6 +35,11 @@ New serial port settings.
 Тестирования Android не проводились.
 [English]
 Android version is not tested.
+[extra]
+[Russian]
+
+[English]
+
 
 [version]
 [device]
