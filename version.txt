@@ -1,6 +1,6 @@
 [version]
 [interface]
-[v1.08.03.23.0000]
+v1.08.03.23.0000
 [description]
 [Russian]
 Добавлена поддержка Toyota Tundra 2022+.
@@ -17,7 +17,7 @@ Android version is not tested.
 
 [version]
 [interface]
-[v1.05.02.23.0000]
+v1.05.02.23.0000
 [description]
 [Russian]
 Улучшен интерфейс.
@@ -33,7 +33,7 @@ Android version is not tested.
 
 [version]
 [device]
-[v1.15.03.23.0001]
+v1.15.03.23.0001
 [description]
 [Russian]
 Добавлена поддержка Toyota Tundra 2022+.
@@ -52,7 +52,7 @@ Device LED and button are not used.
 
 [version]
 [device]
-[v1.02.03.23.0001]
+v1.02.03.23.0001
 [description]
 [Russian]
 Исправлена прошивка для Great Wall Poer и Isuzu, проявлявшаяся в периодичном не включении модуля.
@@ -75,7 +75,7 @@ Button function is reset.
 
 [version]
 [device]
-[v1.06.02.23.0001]
+v1.06.02.23.0001
 [description]
 [Russian]
 Исправлена некорректная функция калибровки одометра на Great Wall Poer. 
