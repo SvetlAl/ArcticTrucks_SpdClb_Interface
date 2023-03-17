@@ -1,39 +1,13 @@
 [version]
 [interface]
-v1.08.03.23.0000
-[description]
-[Russian]
-Добавлена поддержка Toyota Tundra 2022+.
-Добавлена поддержка сверки версий Online.
-[English]
-Toyota Tundra 2022 support added.
-Online info update added.
-[errata]
-[Russian]
-
-[English]
-
-[extra]
-[Russian]
-Тестирования Android не проводились.
-[English]
-Android version is not tested.
-
-
-
-
-
-
-[version]
-[interface]
 v1.05.03.23.0000
 [description]
 [Russian]
-Версия, которую
-тустирую на данный момент.
+Добавлена поддержка Toyota Tundra 2022+. 
+Добавлена поддержка сверки версий Online. 
 [English]
-This version is
-under construction.
+Toyota Tundra 2022 support added. 
+Online info update added. 
 [errata]
 [Russian]
 
@@ -41,41 +15,25 @@ under construction.
 
 [extra]
 [Russian]
-Тестирования Android не проводились.
-Но это лишь пока
+Тестирования Android не проводились. 
+В разработке.
 [English]
-Android version is not tested.
-Still...
+Android version is not tested. 
+Not finished. 
 
 
 
 
 
-[version]
-[interface]
-v1.05.02.23.0000
-[description]
-[Russian]
-Улучшен интерфейс.
-Добавлены новые опции последовательного порта.
-[English]
-Improved interface.
-New serial port settings.
-[errata]
-[Russian]
 
-[English]
 
-[extra]
-[Russian]
-Тестирования Android не проводились.
-[English]
-Android version is not tested.
+
+
 
 
 [version]
 [device]
-v1.15.01.23.0001
+v1.05.03.23.0001
 [description]
 [Russian]
 Добавлена поддержка Toyota Tundra 2022+.
@@ -94,25 +52,6 @@ Toyota Tundra 2022 support added.
 The Version is not tested.
 Device LED and button are not used. 
 
-
-[version]
-[device]
-v1.05.03.23.0001
-[description]
-[Russian]
-Тест
-[English]
-Test
-[errata]
-[Russian]
-
-[English]
-
-[extra]
-[Russian]
-не тест
-[English]
-n test
 
 
 
@@ -138,6 +77,12 @@ Great Wall Poer and Isuzu issue solved: periodically not starting device.
 If LED is blinking, reset the device.
 LED is on, when USB connection recognized.
 Button function is reset.
+
+
+
+
+
+
 
 [version]
 [device]
