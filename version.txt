@@ -105,9 +105,9 @@ v1.05.03.23.0001
 Test
 [errata]
 [Russian]
-Это полный атас
+
 [English]
-Atas
+
 [extra]
 [Russian]
 не тест
