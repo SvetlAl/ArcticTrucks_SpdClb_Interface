@@ -75,7 +75,7 @@ Android version is not tested.
 
 [version]
 [device]
-v1.15.03.23.0001
+v1.15.01.23.0001
 [description]
 [Russian]
 Добавлена поддержка Toyota Tundra 2022+.
