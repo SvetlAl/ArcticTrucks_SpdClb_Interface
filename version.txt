@@ -36,9 +36,9 @@ This version is
 under construction.
 [errata]
 [Russian]
-Атас!!
+
 [English]
-Test!!!
+
 [extra]
 [Russian]
 Тестирования Android не проводились.
@@ -93,6 +93,28 @@ Toyota Tundra 2022 support added.
 [English]
 The Version is not tested.
 Device LED and button are not used. 
+
+
+[version]
+[device]
+v1.05.03.23.0001
+[description]
+[Russian]
+Тест
+[English]
+Test
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+не тест
+[English]
+n test
+
+
 
 [version]
 [device]
