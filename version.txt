@@ -20,6 +20,37 @@ Online info update added.
 Android version is not tested.
 
 
+
+
+
+
+[version]
+[interface]
+v1.05.03.23.0000
+[description]
+[Russian]
+Версия, которую
+тустирую на данный момент.
+[English]
+This version is
+under construction.
+[errata]
+[Russian]
+Атас!!
+[English]
+Test!!!
+[extra]
+[Russian]
+Тестирования Android не проводились.
+Но это лишь пока
+[English]
+Android version is not tested.
+Still...
+
+
+
+
+
 [version]
 [interface]
 v1.05.02.23.0000
