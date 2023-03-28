@@ -26,7 +26,30 @@ Not finished.
 
 
 
-
+[version]
+[device]
+b1.25.03.23.0001
+[description]
+[Russian]
+Добавлена поддержка загрузчика обновлений
+[English]
+Bootloader support added
+[errata]
+[Russian]
+Бета-версия
+[English]
+Beta version
+[extra]
+[Russian]
+Тестирования не проводились.
+Светодиод моргает при обновлении, гаснет после завершения обновления.
+При подключённом USB светодиод должен гореть.
+Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+The Version is not tested.
+Device LED is blinking while update reprogramming. After reprogramming is finished the LED is off.
+LED is always on while USB device is detected by host.
+Pressed button while powering up starts firmware recovery.
 
 
 
@@ -36,14 +59,14 @@ Not finished.
 v1.05.03.23.0001
 [description]
 [Russian]
-Добавлена поддержка Toyota Tundra 2022+.
+Почти добавлена поддержка Toyota Tundra 2022+.
 [English]
-Toyota Tundra 2022 support added.
+Toyota Tundra 2022 support is about to add.
 [errata]
 [Russian]
-
+Не тестировалось вообще
 [English]
-
+Not tested yet at all
 [extra]
 [Russian]
 Тестирования не проводились.
@@ -51,8 +74,6 @@ Toyota Tundra 2022 support added.
 [English]
 The Version is not tested.
 Device LED and button are not used. 
-
-
 
 
 [version]
