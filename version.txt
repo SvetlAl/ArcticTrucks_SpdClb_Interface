@@ -48,7 +48,7 @@ Not finished.
 
 [version]
 [device]
-b1.25.03.23.0001
+b1.26.03.23.0001
 [description]
 [Russian]
 Добавлена поддержка загрузчика обновлений
