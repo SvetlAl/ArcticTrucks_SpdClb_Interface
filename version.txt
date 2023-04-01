@@ -65,7 +65,24 @@ Beta version
 [English]
 The Version is not tested. Device LED is blinking while update reprogramming. After reprogramming is finished the LED is off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
 
-
+[version]
+[device]
+b1.25.03.23.0001
+[description]
+[Russian]
+Добавлена поддержка загрузчика обновлений
+[English]
+Bootloader support added
+[errata]
+[Russian]
+Бета-версия
+[English]
+Beta version
+[extra]
+[Russian]
+Тестирования не проводились. Светодиод моргает при обновлении, гаснет после завершения обновления. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+The Version is not tested. Device LED is blinking while update reprogramming. After reprogramming is finished the LED is off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
 
 
 [version]
