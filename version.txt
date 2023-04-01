@@ -70,7 +70,7 @@ The Version is not tested. Device LED is blinking while update reprogramming. Af
 
 [version]
 [device]
-v1.05.03.23.0001
+v1.15.03.23.0001
 [description]
 [Russian]
 Почти добавлена поддержка Toyota Tundra 2022+.
