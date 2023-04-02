@@ -1,25 +1,5 @@
 [version]
 [interface]
-v1.15.03.23.0000
-[description]
-[Russian]
-Тест 
-[English]
-test
-[errata]
-[Russian]
-
-[English]
-
-[extra]
-[Russian]
-Удалить
-[English]
-delete
-
-
-[version]
-[interface]
 v1.05.03.23.0000
 [description]
 [Russian]
@@ -35,81 +15,33 @@ Online info update added.
 
 [extra]
 [Russian]
-Тестирования Android не проводились. 
-В разработке.
+
 [English]
-Android version is not tested. 
-Not finished. 
-
-
-
-
-
+ 
 
 [version]
 [device]
-b1.26.03.23.0001
+v1.04.04.23.0001
 [description]
 [Russian]
-Добавлена поддержка загрузчика обновлений
+Добавлена модель Toyota Tundra 2022+. Добавлена поддержка загрузчика обновлений.
 [English]
-Bootloader support added
+Toyota Tundra 2022+ support added. Bootloader support added.
 [errata]
 [Russian]
-Бета-версия
-[English]
-Beta version
-[extra]
-[Russian]
-Тестирования не проводились. Светодиод моргает при обновлении, гаснет после завершения обновления. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
-[English]
-The Version is not tested. Device LED is blinking while update reprogramming. After reprogramming is finished the LED is off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
 
-[version]
-[device]
-b1.25.03.23.0001
-[description]
-[Russian]
-Добавлена поддержка загрузчика обновлений
 [English]
-Bootloader support added
-[errata]
-[Russian]
-Бета-версия
-[English]
-Beta version
+
 [extra]
 [Russian]
-Тестирования не проводились. Светодиод моргает при обновлении, гаснет после завершения обновления. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+Тестирования не проводились. Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
 [English]
-The Version is not tested. Device LED is blinking while update reprogramming. After reprogramming is finished the LED is off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
+The Version is not tested. Device LED is blinking quickly while update reprogramming. Slow blinking starts after memory write operation. When reprogramming is finished the LED turns off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
 
 
 [version]
 [device]
 v1.15.03.23.0001
-[description]
-[Russian]
-Почти добавлена поддержка Toyota Tundra 2022+.
-[English]
-Toyota Tundra 2022 support is about to add.
-[errata]
-[Russian]
-Не тестировалось вообще
-[English]
-Not tested yet at all
-[extra]
-[Russian]
-Тестирования не проводились.
-Светодиод и кнопка не задействованы.
-[English]
-The Version is not tested.
-Device LED and button are not used. 
-
-
-[version]
-[device]
-v1.02.03.23.0001
 [description]
 [Russian]
 Исправлена прошивка для Great Wall Poer и Isuzu, проявлявшаяся в периодичном не включении модуля.
@@ -129,9 +61,6 @@ Great Wall Poer and Isuzu issue solved: periodically not starting device.
 If LED is blinking, reset the device.
 LED is on, when USB connection recognized.
 Button function is reset.
-
-
-
 
 
 
