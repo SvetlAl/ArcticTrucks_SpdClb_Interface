@@ -49,9 +49,9 @@ v1.15.03.23.0001
 Great Wall Poer and Isuzu issue solved: periodically not starting device.
 [errata]
 [Russian]
-
+Tundra 2022 не тестировалась
 [English]
-
+Tundra 2022 not tested
 [extra]
 [Russian]
 Светодиод моргает после записи в память, требуется перезагрузка.
