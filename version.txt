@@ -1,5 +1,26 @@
 [version]
 [interface]
+v1.19.03.23.0000
+[description]
+[Russian]
+Исправлено обновление прошивок чётного размера 
+[English]
+Even size files update fixed
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+ 
+ 
+
+
+[version]
+[interface]
 v1.05.03.23.0000
 [description]
 [Russian]
@@ -10,13 +31,15 @@ Toyota Tundra 2022 support added.
 Online info update added. 
 [errata]
 [Russian]
-
+Некорректное обновление прошивок размера кратного 64
 [English]
-
+Binaries dividable to 64 b improperly update.
 [extra]
 [Russian]
 
 [English]
+ 
+ 
  
 [version]
 [device]
