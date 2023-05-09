@@ -1,5 +1,25 @@
 [version]
 [interface]
+v1.08.05.23.0000
+[description]
+[Russian]
+Добавлены функции сканера и фильтры шлюза.
+[English]
+New filter and scanner functions .
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+ 
+ 
+ 
+[version]
+[interface]
 v1.19.04.23.0000
 [description]
 [Russian]
