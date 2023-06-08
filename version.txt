@@ -62,6 +62,29 @@ Binaries dividable to 64 b improperly update.
  
 [version]
 [device]
+v1.06.006.23.0001
+[description]
+[Russian]
+Исправлено возможное зависания после снятия клеммы АКБ.
+[English]
+Fixed possible not starting after Battery terminal removal.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+Device LED is blinking quickly while update reprogramming. Slow blinking starts after memory write operation. When reprogramming is finished the LED turns off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
+
+
+
+
+
+[version]
+[device]
 v1.08.05.23.0001
 [description]
 [Russian]
@@ -70,9 +93,9 @@ v1.08.05.23.0001
 Added CRC for Tank, in all device models frequency increased
 [errata]
 [Russian]
-
+Возможное зависание после снятия клеммы АКБ. Обнаружено на Great Wall Wingle.
 [English]
-
+Possible not starting issue after Battery terminal removal.
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
