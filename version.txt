@@ -1,5 +1,45 @@
 [version]
 [interface]
+v1.15.07.23.0000
+[description]
+[Russian]
+Добавлены модели Tank-300 и Extra, отправка трейсов в шину через USB.
+[English]
+New models added: Tank-300, Extra, CDC message injection via USB supported.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+[version]
+[interface]
+v1.08.05.23.0000
+[description]
+[Russian]
+Добавлены функции сканера и фильтры шлюза.
+[English]
+New filter and scanner functions .
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+ 
+ 
+ 
+
+[version]
+[interface]
 v1.08.05.23.0000
 [description]
 [Russian]
