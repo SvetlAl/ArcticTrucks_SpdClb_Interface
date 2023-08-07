@@ -1,5 +1,24 @@
 [version]
 [interface]
+v1.05.08.23.0000
+[description]
+[Russian]
+Добавлена модель Nissan Patrol
+[English]
+New model added: Nissan Patrol
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+[version]
+[interface]
 v1.15.07.23.0000
 [description]
 [Russian]
@@ -97,6 +116,26 @@ Binaries dividable to 64 b improperly update.
 [Russian]
 
 [English]
+
+[version]
+[device]
+v1.05.08.23.0001
+[description]
+[Russian]
+Добавлены модели: Tank-300, Nissan Patrol 2020
+[English]
+New models added: Tank-300, Nissan Patrol 2020.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+Device LED is blinking quickly while update reprogramming. Slow blinking starts after memory write operation. When reprogramming is finished the LED turns off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
+
 
 
 [version]
