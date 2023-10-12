@@ -117,6 +117,29 @@ Binaries dividable to 64 b improperly update.
 
 [English]
 
+
+
+[version]
+[device]
+v1.12.10.23.0001
+[description]
+[Russian]
+Исправлена работа одометра Tank-300
+[English]
+Tank-300 odo issue fixed
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+Device LED is blinking quickly while update reprogramming. Slow blinking starts after memory write operation. When reprogramming is finished the LED turns off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
+
+
+
 [version]
 [device]
 v1.05.08.23.0001
@@ -127,9 +150,9 @@ v1.05.08.23.0001
 New models added: Tank-300, Nissan Patrol 2020.
 [errata]
 [Russian]
-
+Некорректная работа одометра на Tank-300
 [English]
-
+Tank-300 odometer malfunction
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
