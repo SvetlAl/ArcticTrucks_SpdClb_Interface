@@ -7,7 +7,9 @@ EVEN IF THE DEVICE FAILS TO UPDATE, BUT YOU TRY UPDATE PROCEDURE and then make a
 If you fail to update and solve this problem for some reason, you may optionally connect a power wire (12V+) not to the battery line, but to the ignition (IG). This is an optional emergency solution.
 
 **Links.**
+
 https://www.youtube.com/watch?v=_2lSAhtEF34   - Update procedure
+
 https://www.youtube.com/watch?v=byr8RlJjnwU   - Connect and use
 
 
