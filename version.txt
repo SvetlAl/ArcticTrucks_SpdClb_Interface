@@ -136,9 +136,10 @@ Binaries dividable to 64 b improperly update.
 [extra]
 [Russian]
 
-
-
 [English]
+
+
+
 [version]
 [device]
 v1.20.03.24.0001
