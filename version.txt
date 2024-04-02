@@ -3,9 +3,9 @@
 v1.29.10.23.0000
 [description]
 [Russian]
-Добавлена модель UAZ Patriot
+Добавлена модель UAZ Patriot, Jeep Grand Cherokee 2017, TANK-500
 [English]
-New model added: UAZ Patriot
+New model added: UAZ Patriot, Jeep Grand Cherokee 2017, TANK-500
 [errata]
 [Russian]
 
