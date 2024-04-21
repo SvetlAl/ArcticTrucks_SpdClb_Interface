@@ -142,6 +142,26 @@ Binaries dividable to 64 b improperly update.
 
 [version]
 [device]
+v1.22.04.24.0001
+[description]
+[Russian]
+Исправлена фукнция пересчёта скорости круиз-контроля LC300
+[English]
+LC300 cruise speed calculation - fixed
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
+[English]
+Device LED is blinking quickly while update reprogramming. Slow blinking starts after memory write operation. When reprogramming is finished the LED turns off. LED is always on while USB device is detected by host. Pressed button while powering up starts firmware recovery.
+
+
+[version]
+[device]
 v1.20.03.24.0001
 [description]
 [Russian]
@@ -150,9 +170,9 @@ v1.20.03.24.0001
 Added: Jeep Grand Cherokee, Tank-300 tyres threshold calibrator
 [errata]
 [Russian]
-
+LC300 Cruise Control
 [English]
-
+LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
@@ -173,9 +193,9 @@ v1.08.12.23.0001
 TANK300 speedo issue fixed
 [errata]
 [Russian]
-
+LC300 Cruise Control
 [English]
-
+LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
@@ -195,9 +215,9 @@ v1.13.11.23.0001
 New model: UAZ Patriot
 [errata]
 [Russian]
-Возможно некорректное отображение скорости TANK300 произведённых 2023
+Возможно некорректное отображение скорости TANK300 произведённых 2023, LC300 Cruise Control
 [English]
-Possible incorrect TANK300 speed calibration made in 2023
+Possible incorrect TANK300 speed calibration made in 2023, LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
@@ -216,9 +236,9 @@ v1.12.10.23.0001
 Tank-300 odo issue fixed
 [errata]
 [Russian]
-Возможно некорректное отображение скорости TANK300 произведённых 2023
+Возможно некорректное отображение скорости TANK300 произведённых 2023, LC300 Cruise Control
 [English]
-Possible incorrect TANK300 speed calibration made in 2023
+Possible incorrect TANK300 speed calibration made in 2023, LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
@@ -237,9 +257,9 @@ v1.05.08.23.0001
 New models added: Tank-300, Nissan Patrol 2020.
 [errata]
 [Russian]
-Некорректная работа одометра на Tank-300
+Некорректная работа одометра на Tank-300, LC300 Cruise Control
 [English]
-Tank-300 odometer malfunction
+Tank-300 odometer malfunction, LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
@@ -258,9 +278,9 @@ v1.19.07.23.0001
 Gateway architecture totally refactored.
 [errata]
 [Russian]
-
+LC300 Cruise Control
 [English]
-
+LC300 Cruise Control
 [extra]
 [Russian]
 Светодиод быстро моргает при обновлении, гаснет после завершения обновления. Медленное моргание после записи параметров в память. При подключённом USB светодиод должен гореть. Зажатая кнопка при подключении питания восстанавливает прошивку по умолчанию.
