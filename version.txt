@@ -138,6 +138,25 @@ Binaries dividable to 64 b improperly update.
 
 [English]
 
+[version]
+[interface]
+v1.22.06.24.0000
+[description]
+[Russian]
+Добавлено управление портами выхода, доработка релиза.
+[English]
+Release version. GPIO management added.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
 
 [version]
 [device]
