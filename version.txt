@@ -1,5 +1,25 @@
 [version]
 [interface]
+v1.26.12.24.0000
+[description]
+[Russian]
+Добавлена поддержка FD CAN
+[English]
+FD CAN support added
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+[version]
+[interface]
 v1.29.10.23.0000
 [description]
 [Russian]
@@ -155,6 +175,48 @@ Release version. GPIO management added.
 [Russian]
 
 [English]
+
+
+[version]
+[device]
+v1.26.12.24.0001
+[description]
+[Russian]
+поддержка FD-CAN
+[English]
+FD-CAN support
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
+[version]
+[device]
+v1.14.12.24.0001
+[description]
+[Russian]
+Test FD-CAN version
+[English]
+Test FD-CAN version
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
 
 
 
