@@ -208,9 +208,9 @@ Test FD-CAN version
 Test FD-CAN version
 [errata]
 [Russian]
-
+test
 [English]
-
+test
 [extra]
 [Russian]
 
