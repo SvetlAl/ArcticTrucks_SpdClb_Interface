@@ -179,7 +179,7 @@ Release version. GPIO management added.
 
 [version]
 [device]
-v1.26.12.24.0001
+v1.05.05.25.0001
 [description]
 [Russian]
 поддержка FD-CAN
