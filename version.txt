@@ -177,6 +177,34 @@ Release version. GPIO management added.
 [English]
 
 
+
+
+
+
+
+
+[version]
+[device]
+v1.25.05.25.0001
+[description]
+[Russian]
+поддержка LC200 (Renault), Great Wall Poer 2025
+[English]
+LC200 (Renault), Great Wall Poer 2025
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
+
 [version]
 [device]
 v1.05.05.25.0001
