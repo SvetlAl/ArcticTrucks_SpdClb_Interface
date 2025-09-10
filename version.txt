@@ -178,6 +178,23 @@ Release version. GPIO management added.
 
 
 
+[version]
+[device]
+v1.11.09.25.0001
+[description]
+[Russian]
+Great Wall Poer 2025 - cruise control
+[English]
+Great Wall Poer 2025 - cruise control
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
 
 
 
@@ -193,9 +210,9 @@ v1.25.05.25.0001
 LC200 (Renault), Great Wall Poer 2025
 [errata]
 [Russian]
-
+Great Wall Poer 2025 - cruise control
 [English]
-
+Great Wall Poer 2025 - cruise control
 [extra]
 [Russian]
 
