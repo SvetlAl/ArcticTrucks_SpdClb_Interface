@@ -178,6 +178,28 @@ Release version. GPIO management added.
 
 
 
+
+[version]
+[device]
+v1.11.10.25.0001
+[description]
+[Russian]
+
+[English]
+
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
 [version]
 [device]
 v1.11.09.25.0001
