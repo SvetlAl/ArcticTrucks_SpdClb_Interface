@@ -17,6 +17,26 @@ FD CAN support added
 [English]
 
 
+[version]
+[device]
+v2.25.12.25.0001
+[description]
+[Russian]
+поддержка Haval H9, Tank 400, LC250
+[English]
+New models: Haval H9, Tank 400, LC250
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
 
 [version]
 [device]
