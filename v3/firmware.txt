@@ -1,17 +1,25 @@
 {
   "format_version": 2,
   "versions": [
+
     {
-      "version": "2.19.12.2025.0000",
-      "description": "FD CAN support added",
-      "errata": "Critical bug in CAN ID 0x123 processing at speeds > 500 kbit/s. Update immediately!",
-      "extra": "New models added: UAZ Patriot 2024, Toyota Land Cruiser 300. Fixed correction calculation for 35\" wheels."
+      "version": "v2.09.03.2026.0000",
+      "description": "Тест: новая версия firmware",
+      "errata": "Тест: errata новой версии firmware",
+      "extra": "Тест: extra новой версии firmware"
     },
     {
-      "version": "2.19.12.2026.0000",
-      "description": "FD CAN",
-      "errata": "C",
-      "extra": "N"
+      "version": "v2.25.01.2026.0000",
+      "description": "Тест: текущая версия firmware",
+      "errata": "Тест: errata текущей версии firmware",
+      "extra": "Тест: extra текущей версии firmware"
+    },
+    {
+      "version": "v2.13.12.2025.0000",
+      "description": "Тест: старая версия firmware",
+      "errata": "Тест: errata старой версии firmware",
+      "extra": "Тест: extra старой версии firmware"
     }
   ]
 }
+
