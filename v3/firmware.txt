@@ -3,7 +3,7 @@
   "versions": [
 
     {
-      "version": "v2.09.03.26.0000",
+      "version": "v3.12.03.26.0000",
       "description": "Тест: новая версия firmware",
       "errata": "Тест: errata новой версии firmware",
       "extra": "Тест: extra новой версии firmware"
@@ -22,5 +22,6 @@
     }
   ]
 }
+
 
 
