@@ -17,6 +17,28 @@ FD CAN support added
 [English]
 
 
+
+[version]
+[device]
+v2.17.03.26.0001
+[description]
+[Russian]
+FD-CAN fixed
+[English]
+FD-CAN fixed
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
 [version]
 [device]
 v2.25.12.25.0001
@@ -27,9 +49,9 @@ v2.25.12.25.0001
 New models: Haval H9, Tank 400, LC250
 [errata]
 [Russian]
-
+FD-CAN: пакет может калиброваться дважды
 [English]
-
+FD-CAN: possible double packet calibration
 [extra]
 [Russian]
 
