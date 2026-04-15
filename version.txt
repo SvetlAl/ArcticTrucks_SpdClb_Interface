@@ -16,6 +16,25 @@ FD CAN support added
 
 [English]
 
+[version]
+[device]
+v2.17.04.26.0001
+[description]
+[Russian]
+LC250 cruise control
+[English]
+LC250 cruise control
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
 
 
 [version]
