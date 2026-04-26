@@ -4,9 +4,9 @@
 
     {
       "version": "v3.01.05.26.0000",
-      "description": "Тест: новая версия firmware",
-      "errata": "Тест: errata новой версии firmware",
-      "extra": "Тест: extra новой версии firmware"
+      "description": "version 3",
+      "errata": "version 3 beta",
+      "extra": "version 3 beta"
     },
     {
       "version": "v2.25.01.26.0000",
