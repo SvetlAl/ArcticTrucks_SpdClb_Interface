@@ -3,7 +3,7 @@
   "versions": [
 
     {
-      "version": "v3.01.05.26.0000",
+      "version": "v3.19.05.26.0000",
       "description": "version 3",
       "errata": "version 3 beta",
       "extra": "version 3 beta"
