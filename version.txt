@@ -18,6 +18,27 @@ FD CAN support added
 
 [version]
 [device]
+v2.17.06.26.0001
+[description]
+[Russian]
+GWM re-geared
+[English]
+GWM re-geared
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
+[version]
+[device]
 v2.17.04.26.0001
 [description]
 [Russian]
