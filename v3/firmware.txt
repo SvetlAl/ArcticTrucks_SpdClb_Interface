@@ -2,7 +2,7 @@
   "format_version": 2,
   "versions": [
     {
-      "version": "v3.22.08.26.0000",
+      "version": "v3.23.08.26.0000",
       "description": "version 3",
       "errata": " ",
       "extra": "minor changes"
