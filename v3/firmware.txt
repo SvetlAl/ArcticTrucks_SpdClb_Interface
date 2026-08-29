@@ -1,6 +1,12 @@
 {
   "format_version": 2,
   "versions": [
+  {
+      "version": "v3.30.08.26.0000",
+      "description": "Dodge Ram 2019+ cruise Longhorn",
+      "errata": " ",
+      "extra": "none"
+    },
     {
       "version": "v3.23.08.26.0000",
       "description": "version 3",
