@@ -18,7 +18,7 @@ FD CAN support added
 
 [version]
 [device]
-v2.17.06.26.0001
+v2.17.09.26.0001
 [description]
 [Russian]
 GWM re-geared
