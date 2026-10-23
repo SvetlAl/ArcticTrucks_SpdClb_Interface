@@ -2,9 +2,16 @@
   "format_version": 2,
   "versions": [
     {
+      "version": "v3.23.10.26.0000",
+      "description": "Poer25 spd",
+      "errata": "Poer25 speedo issue fixed",
+      "extra": "none"
+    },
+  "versions": [
+    {
       "version": "v3.17.09.26.0000",
       "description": "Haval H9 Diesel",
-      "errata": " ",
+      "errata": "Poer25 speedo issue",
       "extra": "none"
     },
     {
