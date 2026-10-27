@@ -7,7 +7,6 @@
       "errata": "Poer25 speedo issue fixed",
       "extra": "none"
     },
-  "versions": [
     {
       "version": "v3.17.09.26.0000",
       "description": "Haval H9 Diesel",
