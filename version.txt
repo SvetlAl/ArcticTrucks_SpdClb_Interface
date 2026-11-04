@@ -18,6 +18,27 @@ FD CAN support added
 
 [version]
 [device]
+v3.13.10.26.0001
+[description]
+[Russian]
+v3
+[English]
+v3
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+
+
+
+
+[version]
+[device]
 v2.17.09.26.0001
 [description]
 [Russian]
