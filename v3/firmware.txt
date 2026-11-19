@@ -2,6 +2,12 @@
   "format_version": 2,
   "versions": [
     {
+      "version": "v3.20.11.26.0000",
+      "description": "Tank400 fix",
+      "errata": " ",
+      "extra": "none"
+    },
+    {
       "version": "v3.13.11.26.0000",
       "description": "Haval H9 light",
       "errata": " ",
